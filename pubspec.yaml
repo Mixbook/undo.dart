@@ -1,0 +1,6 @@
+name: undo
+version: 0.1.0
+description: Undo redo library
+dev_dependencies:
+  browser: any
+  unittest: any
